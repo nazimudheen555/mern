@@ -1,0 +1,6 @@
+[submodule "mern_backend"]
+	path = mern_backend
+	url = git@nazimudheen555:nazimudheen555/mern_backend.git
+[submodule "mern_web_customer"]
+	path = mern_web_customer
+	url = git@nazimudheen555:nazimudheen555/mern_web_customer.git
