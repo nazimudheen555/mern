@@ -7,7 +7,7 @@
   },
   "scripts": {
     "sub-init": "git submodule update --init --recursive",
-    "fetch": "git submodule foreach git fetch"
+    "fetch": "git submodule update --recursive --remote"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
